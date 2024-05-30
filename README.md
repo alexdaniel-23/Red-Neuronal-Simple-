@@ -1,1 +1,4 @@
-# Red-Neuronal-Simple-
+# Red-Neuronal-Simple-Heart-Failure
+
+Este Dataset es originalmete de la plataforma Kaggle el cual se enfoca en las enfermedades cardiovasculares (ECV) que son la principal causa de muerte a nivel mundial y se estima que cobran 17,9 millones de vidas cada año, lo que representa el 31% de todas las muertes en todo el mundo. Cuatro de cada cinco muertes por ECV se deben a ataques cardíacos y accidentes cerebrovasculares, y un tercio de estas muertes ocurren prematuramente en personas menores de 70 años. La insuficiencia cardíaca es un evento común causado por enfermedades cardiovasculares y este conjunto de datos contiene 11 características que pueden usarse para predecir una posible enfermedad cardíaca.
+Las personas con enfermedades cardiovasculares o que tienen un alto riesgo cardiovascular (debido a la presencia de uno o más factores de riesgo como hipertensión, diabetes, hiperlipidemia o enfermedad ya establecida) necesitan una detección y un manejo tempranos, donde un modelo de aprendizaje automático puede ser de gran ayuda.
